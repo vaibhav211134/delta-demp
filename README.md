@@ -1,2 +1,2 @@
 # delta-demp
-This is demo for git class.
+This is demo for git & github class
